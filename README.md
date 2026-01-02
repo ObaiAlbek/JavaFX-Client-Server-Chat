@@ -29,16 +29,10 @@ Dieses Projekt demonstriert die Umsetzung von Netzwerkkommunikation (Sockets), G
 
 Hier ein Einblick in die Anwendung:
 
-### Login & Setup
-<p align="center">
-  <img src="screenshots/login.png" alt="Login Screen" width="600">
-</p>
-
 ### Chat Ansicht
 <p align="center">
-  <img src="screenshots/chat.png" alt="Chat Room" width="600">
+  <img src="screenshots/app-screenshot.png" alt="Login Screen" width="600">
 </p>
-
 ---
 
 ## 🏗 Architektur & Design
