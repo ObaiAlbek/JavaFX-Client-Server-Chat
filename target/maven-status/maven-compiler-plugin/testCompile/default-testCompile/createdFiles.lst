@@ -1,0 +1,7 @@
+test\GruppenRoomTest.class
+test\MessageTest.class
+test\ChatRoomTest.class
+test\IntegrationTest.class
+test\UserTest.class
+test\ChatServiceTest.class
+test\ExceptionTest.class
